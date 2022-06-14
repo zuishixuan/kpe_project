@@ -1,0 +1,77 @@
+{
+  "settings": {
+    "number_of_replicas": 0,
+    "number_of_shards": 4,
+    "analysis": {
+      "analyzer": {
+        "chinese_analyzer": {
+          "type": "custom",
+          "tokenizer": "ik_max_word"
+        },
+        "english_analyzer": {
+          "type": "standard",
+          "max_token_length": 5,
+          "stopwords": "_english_"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "name": {
+        "type": "text",
+        "index": "true",
+        "analyzer": "chinese_analyzer",
+        "search_analyzer": "chinese_analyzer"
+      },
+      "identifier": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "subject_category": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "theme_category": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "describe": {
+        "type": "text",
+        "index": "true",
+        "analyzer": "chinese_analyzer",
+        "search_analyzer": "chinese_analyzer"
+      },
+      "keyword": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "keyword_deny": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "generate_date": {
+        "type": "date",
+        "index": "true",
+        "format": "yyyy-MM||yyyy-MM-dd||yyyy-MM-dd HH:mm:ss||yyyy-MM-dd'T'HH:mm:ss||yyyy-MM-dd'T'HH:mm:ss.SSS||yyyy-MM-dd'T'HH:mm:ss.SSSZ||yyyy/MM/dd||yyyy-MM-dd HH:mm||epoch_millis"
+      },
+      "submit_date": {
+        "type": "date",
+        "index": "true",
+        "format": "yyyy-MM||yyyy-MM-dd||yyyy-MM-dd HH:mm:ss||yyyy-MM-dd'T'HH:mm:ss||yyyy-MM-dd'T'HH:mm:ss.SSS||yyyy-MM-dd'T'HH:mm:ss.SSSZ||yyyy/MM/dd||yyyy-MM-dd HH:mm||epoch_millis"
+      },
+      "keyword_score": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "keyword_deny_score": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "submit_user": {
+        "type": "keyword",
+        "index": "true"
+      }
+    }
+  }
+}

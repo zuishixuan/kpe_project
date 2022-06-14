@@ -1,0 +1,1 @@
+pytest.exe ./test/

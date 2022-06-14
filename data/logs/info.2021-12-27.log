@@ -1,0 +1,5 @@
+2021-12-27 20:34:34,190 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-27 20:34:35,511 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-27 20:34:35,511 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-27 20:34:36,261 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.750 seconds.
+2021-12-27 20:34:36,262 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.

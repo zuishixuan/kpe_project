@@ -1,0 +1,157 @@
+{
+  "settings": {
+    "number_of_replicas": 1,
+    "number_of_shards": 4,
+    "analysis": {
+      "analyzer": {
+        "chinese_analyzer": {
+          "type": "custom",
+          "tokenizer": "ik_max_word"
+        },
+        "english_analyzer": {
+          "type": "standard",
+          "max_token_length": 5,
+          "stopwords": "_english_"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "agency_org_name": {
+        "type": "keyword",
+        "index": "false"
+      },
+      "agency_person_name": {
+        "type": "keyword",
+        "index": "false"
+      },
+      "applicant_address": {
+        "type": "keyword",
+        "index": "false"
+      },
+      "applicant_name": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "application_area_code": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "application_date": {
+        "type": "date",
+        "index": "false",
+        "format": "yyyy-MM||yyyy-MM-dd||yyyy-MM-dd HH:mm:ss||yyyy-MM-dd'T'HH:mm:ss||yyyy-MM-dd'T'HH:mm:ss.S||yyyy-MM-dd'T'HH:mm:ss.SSS||yyyy-MM-dd'T'HH:mm:ss.SSSZ||epoch_millis"
+      },
+      "application_num": {
+        "type": "keyword",
+        "index": "false"
+      },
+      "class_code": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "id": {
+        "type": "keyword",
+        "index": "false"
+      },
+      "inventor_name": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "legal_status": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "patent_id": {
+        "type": "keyword",
+        "index": "false"
+      },
+      "patent_type": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "keywords": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "keywords_2": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "category": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "area_arr": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "pub_org_code": {
+        "type": "keyword",
+        "index": "false"
+      },
+      "publication_date": {
+        "type": "date",
+        "index": "true",
+        "format": "yyyy-MM||yyyy-MM-dd||yyyy-MM-dd HH:mm:ss||yyyy-MM-dd'T'HH:mm:ss||yyyy-MM-dd'T'HH:mm:ss.SSS||yyyy-MM-dd'T'HH:mm:ss.SSSZ||epoch_millis"
+      },
+      "publication_num": {
+        "type": "keyword",
+        "index": "false"
+      },
+      "year": {
+        "type": "integer",
+        "index": "false"
+      },
+      "refdoc_cnt": {
+        "type": "long",
+        "index": "false"
+      },
+      "search_code": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "signory": {
+        "type": "text",
+        "index": "true",
+        "analyzer": "chinese_analyzer",
+        "search_analyzer": "chinese_analyzer"
+      },
+      "summary": {
+        "type": "text",
+        "index": "true",
+        "analyzer": "chinese_analyzer",
+        "search_analyzer": "chinese_analyzer"
+      },
+      "tag_number": {
+        "type": "long",
+        "index": "false"
+      },
+      "title": {
+        "type": "text",
+        "index": "true",
+        "analyzer": "chinese_analyzer",
+        "search_analyzer": "chinese_analyzer"
+      },
+      "title_en": {
+        "type": "text",
+        "index": "true",
+        "analyzer": "english_analyzer",
+        "search_analyzer": "english_analyzer"
+      },
+      "words": {
+        "properties": {
+          "n": {
+            "type": "keyword",
+            "index": true
+          },
+          "w": {
+            "type": "long",
+            "index": true
+          }
+        }
+      }
+    }
+  }
+}

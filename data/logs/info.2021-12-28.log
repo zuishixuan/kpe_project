@@ -1,0 +1,36 @@
+2021-12-28 18:51:04,077 - D:\Project\PycharmProject\tpidentify\config\config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-28 18:51:10,301 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\jieba\__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-28 18:51:10,934 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\jieba\__init__.py[func:initialize line:147] - DEBUG: Dumping model to file cache C:\Users\83790\AppData\Local\Temp\jieba.cache
+2021-12-28 18:51:11,001 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\jieba\__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.700 seconds.
+2021-12-28 18:51:11,002 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\jieba\__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-28 18:51:16,605 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\numexpr\utils.py[func:_init_num_threads line:157] - INFO: NumExpr defaulting to 6 threads.
+2021-12-28 18:51:17,219 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-28 18:51:17,220 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-28 18:51:17,229 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-28 18:51:17,229 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: [generated in 0.00021s] {}
+2021-12-28 18:51:17,248 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-28 18:51:17,248 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-28 18:51:17,279 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-28 18:51:17,285 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise) AS anon_1
+2021-12-28 18:51:17,285 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: [generated in 0.00023s] {}
+2021-12-28 18:51:17,294 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-28 18:52:04,368 - D:\Project\PycharmProject\tpidentify\config\config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-28 18:52:05,970 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\jieba\__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-28 18:52:05,971 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\jieba\__init__.py[func:initialize line:133] - DEBUG: Loading model from cache C:\Users\83790\AppData\Local\Temp\jieba.cache
+2021-12-28 18:52:06,849 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\jieba\__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.878 seconds.
+2021-12-28 18:52:06,849 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\jieba\__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-28 18:52:11,953 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\numexpr\utils.py[func:_init_num_threads line:157] - INFO: NumExpr defaulting to 6 threads.
+2021-12-28 18:52:12,376 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-28 18:52:12,376 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-28 18:52:12,393 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-28 18:52:12,393 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: [generated in 0.00020s] {}
+2021-12-28 18:52:12,410 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-28 18:52:12,411 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-28 18:52:12,435 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-28 18:52:12,437 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise 
+WHERE hb_dongguang_enterprise.id = %(pk_1)s
+2021-12-28 18:52:12,437 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: [generated in 0.00021s] {'pk_1': 1}
+2021-12-28 18:52:12,453 - D:\SoftWare\Anaconda\envs\nlp\lib\site-packages\sqlalchemy\log.py[func:info line:117] - INFO: ROLLBACK

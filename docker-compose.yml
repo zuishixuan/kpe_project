@@ -1,0 +1,11 @@
+version: '2'
+services:
+  tpidentify:
+    build: .
+    image: tpidentify
+    ports:
+      - "9009:5000"
+    environment:
+      - FLASK_CONFIG=pro
+    volumes:
+      - "./data/logs:/tpidentify/data/logs"

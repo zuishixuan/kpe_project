@@ -1,0 +1,418 @@
+2021-12-25 14:00:17,009 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:00:18,303 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:00:18,304 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:00:19,051 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.747 seconds.
+2021-12-25 14:00:19,051 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:06:07,321 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:06:08,566 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:06:08,567 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:06:09,323 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.757 seconds.
+2021-12-25 14:06:09,324 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:08:44,800 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:08:46,036 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:08:46,037 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:08:46,777 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.741 seconds.
+2021-12-25 14:08:46,778 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:09:15,199 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:09:16,452 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:09:16,453 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:09:17,194 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.741 seconds.
+2021-12-25 14:09:17,194 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:10:03,636 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:10:04,892 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:10:04,893 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:10:05,632 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.740 seconds.
+2021-12-25 14:10:05,633 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:16:21,570 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:16:22,811 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:16:22,812 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:16:23,550 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.739 seconds.
+2021-12-25 14:16:23,550 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:16:49,370 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:16:50,662 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:16:50,663 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:16:51,389 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.727 seconds.
+2021-12-25 14:16:51,389 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:26:14,383 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:26:15,653 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:26:15,653 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:26:16,408 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.755 seconds.
+2021-12-25 14:26:16,408 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:26:22,315 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 14:26:22,316 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:26:22,323 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 14:26:22,323 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00022s] {}
+2021-12-25 14:26:22,335 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 14:26:22,335 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:26:22,351 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 14:26:22,351 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise,city FROM hb_patent WHERE fileter>1
+2021-12-25 14:26:22,351 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00024s] {}
+2021-12-25 14:26:22,357 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-25 14:28:22,144 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:28:23,377 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:28:23,378 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:28:24,117 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.740 seconds.
+2021-12-25 14:28:24,117 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:28:29,992 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 14:28:29,992 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:28:30,000 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 14:28:30,000 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00040s] {}
+2021-12-25 14:28:30,013 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 14:28:30,013 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:28:30,030 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 14:28:30,031 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise,city FROM hb_patent WHERE fileter > 1
+2021-12-25 14:28:30,031 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00038s] {}
+2021-12-25 14:28:30,037 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-25 14:29:20,824 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:29:22,066 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:29:22,067 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:29:22,807 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.740 seconds.
+2021-12-25 14:29:22,807 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:29:28,658 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 14:29:28,658 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:29:28,666 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 14:29:28,666 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00042s] {}
+2021-12-25 14:29:28,680 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 14:29:28,680 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:29:28,699 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 14:29:28,699 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise,city FROM hb_patent WHERE filter>1
+2021-12-25 14:29:28,700 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00039s] {}
+2021-12-25 14:29:32,991 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 14:29:54,818 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:29:56,067 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:29:56,067 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:29:56,808 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.740 seconds.
+2021-12-25 14:29:56,808 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:30:02,942 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 14:30:02,942 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:30:02,950 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 14:30:02,951 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00041s] {}
+2021-12-25 14:30:02,964 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 14:30:02,964 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:30:02,982 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 14:30:02,992 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_patent.id AS hb_patent_id, hb_patent.iter_num AS hb_patent_iter_num, hb_patent.id_num AS hb_patent_id_num, hb_patent.title AS hb_patent_title, hb_patent.tec_keyw AS hb_patent_tec_keyw, hb_patent.applicant AS hb_patent_applicant, hb_patent.patent_type AS hb_patent_patent_type, hb_patent.appli_num AS hb_patent_appli_num, hb_patent.appli_day AS hb_patent_appli_day, hb_patent.public_num AS hb_patent_public_num, hb_patent.public_day AS hb_patent_public_day, hb_patent.main_ipc AS hb_patent_main_ipc, hb_patent.big_ipc AS hb_patent_big_ipc, hb_patent.province AS hb_patent_province, hb_patent.city AS hb_patent_city, hb_patent.enterprise AS hb_patent_enterprise, hb_patent.abstract AS hb_patent_abstract, hb_patent.cited_patent AS hb_patent_cited_patent, hb_patent.citing_patent AS hb_patent_citing_patent, hb_patent.citing_liter AS hb_patent_citing_liter, hb_patent.ipc AS hb_patent_ipc, hb_patent.filter AS hb_patent_filter 
+FROM hb_patent) AS anon_1
+2021-12-25 14:30:02,992 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00026s] {}
+2021-12-25 14:30:03,161 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-25 14:30:39,836 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:30:41,093 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:30:41,094 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:30:41,833 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.740 seconds.
+2021-12-25 14:30:41,834 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:31:30,305 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:31:31,539 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:31:31,539 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:31:32,287 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.748 seconds.
+2021-12-25 14:31:32,287 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:31:38,210 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 14:31:38,210 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:31:38,218 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 14:31:38,219 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00042s] {}
+2021-12-25 14:31:38,232 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 14:31:38,232 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:31:38,249 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 14:31:38,261 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_patent.id AS hb_patent_id, hb_patent.iter_num AS hb_patent_iter_num, hb_patent.id_num AS hb_patent_id_num, hb_patent.title AS hb_patent_title, hb_patent.tec_keyw AS hb_patent_tec_keyw, hb_patent.applicant AS hb_patent_applicant, hb_patent.patent_type AS hb_patent_patent_type, hb_patent.appli_num AS hb_patent_appli_num, hb_patent.appli_day AS hb_patent_appli_day, hb_patent.public_num AS hb_patent_public_num, hb_patent.public_day AS hb_patent_public_day, hb_patent.main_ipc AS hb_patent_main_ipc, hb_patent.big_ipc AS hb_patent_big_ipc, hb_patent.province AS hb_patent_province, hb_patent.city AS hb_patent_city, hb_patent.enterprise AS hb_patent_enterprise, hb_patent.abstract AS hb_patent_abstract, hb_patent.cited_patent AS hb_patent_cited_patent, hb_patent.citing_patent AS hb_patent_citing_patent, hb_patent.citing_liter AS hb_patent_citing_liter, hb_patent.ipc AS hb_patent_ipc, hb_patent.filter AS hb_patent_filter 
+FROM hb_patent 
+WHERE hb_patent.filter > %(filter_1)s) AS anon_1
+2021-12-25 14:31:38,261 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00031s] {'filter_1': 1}
+2021-12-25 14:31:38,330 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-25 14:44:08,903 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:44:10,593 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:44:10,594 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:44:11,335 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.741 seconds.
+2021-12-25 14:44:11,335 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:44:17,216 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-12-25 14:44:17,217 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 14:44:17,443 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:44:19,073 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:44:19,074 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:44:19,817 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.743 seconds.
+2021-12-25 14:44:19,817 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:44:25,829 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - WARNING:  * Debugger is active!
+2021-12-25 14:44:25,830 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Debugger PIN: 133-945-134
+2021-12-25 14:44:40,719 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 14:44:40,719 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:44:40,727 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 14:44:40,728 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00043s] {}
+2021-12-25 14:44:40,741 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 14:44:40,741 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:44:40,759 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 14:44:40,768 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_patent.id AS hb_patent_id, hb_patent.iter_num AS hb_patent_iter_num, hb_patent.id_num AS hb_patent_id_num, hb_patent.title AS hb_patent_title, hb_patent.tec_keyw AS hb_patent_tec_keyw, hb_patent.applicant AS hb_patent_applicant, hb_patent.patent_type AS hb_patent_patent_type, hb_patent.appli_num AS hb_patent_appli_num, hb_patent.appli_day AS hb_patent_appli_day, hb_patent.public_num AS hb_patent_public_num, hb_patent.public_day AS hb_patent_public_day, hb_patent.main_ipc AS hb_patent_main_ipc, hb_patent.big_ipc AS hb_patent_big_ipc, hb_patent.province AS hb_patent_province, hb_patent.city AS hb_patent_city, hb_patent.enterprise AS hb_patent_enterprise, hb_patent.abstract AS hb_patent_abstract, hb_patent.cited_patent AS hb_patent_cited_patent, hb_patent.citing_patent AS hb_patent_citing_patent, hb_patent.citing_liter AS hb_patent_citing_liter, hb_patent.ipc AS hb_patent_ipc, hb_patent.filter AS hb_patent_filter 
+FROM hb_patent) AS anon_1
+2021-12-25 14:44:40,769 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00038s] {}
+2021-12-25 14:44:40,886 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-25 14:44:40,898 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 14:44:40] "[37mGET /patent-query/query/patent-count HTTP/1.1[0m" 200 -
+2021-12-25 14:45:11,655 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Detected change in '/home/BH/sy1906413/project/tpidentify/app/services/mysql/PatentService.py', reloading
+2021-12-25 14:45:11,835 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 14:45:12,165 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:45:15,438 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:45:17,118 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:45:17,119 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:45:17,875 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.757 seconds.
+2021-12-25 14:45:17,876 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:45:23,823 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-12-25 14:45:23,824 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 14:45:24,023 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 14:45:25,626 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 14:45:25,626 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 14:45:26,351 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.725 seconds.
+2021-12-25 14:45:26,351 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 14:45:31,999 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - WARNING:  * Debugger is active!
+2021-12-25 14:45:31,999 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Debugger PIN: 133-945-134
+2021-12-25 14:45:36,169 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 14:45:36,170 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:45:36,178 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 14:45:36,178 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00045s] {}
+2021-12-25 14:45:36,191 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 14:45:36,191 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 14:45:36,209 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 14:45:36,219 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_patent.id AS hb_patent_id, hb_patent.iter_num AS hb_patent_iter_num, hb_patent.id_num AS hb_patent_id_num, hb_patent.title AS hb_patent_title, hb_patent.tec_keyw AS hb_patent_tec_keyw, hb_patent.applicant AS hb_patent_applicant, hb_patent.patent_type AS hb_patent_patent_type, hb_patent.appli_num AS hb_patent_appli_num, hb_patent.appli_day AS hb_patent_appli_day, hb_patent.public_num AS hb_patent_public_num, hb_patent.public_day AS hb_patent_public_day, hb_patent.main_ipc AS hb_patent_main_ipc, hb_patent.big_ipc AS hb_patent_big_ipc, hb_patent.province AS hb_patent_province, hb_patent.city AS hb_patent_city, hb_patent.enterprise AS hb_patent_enterprise, hb_patent.abstract AS hb_patent_abstract, hb_patent.cited_patent AS hb_patent_cited_patent, hb_patent.citing_patent AS hb_patent_citing_patent, hb_patent.citing_liter AS hb_patent_citing_liter, hb_patent.ipc AS hb_patent_ipc, hb_patent.filter AS hb_patent_filter 
+FROM hb_patent 
+WHERE hb_patent.filter > %(filter_1)s) AS anon_1
+2021-12-25 14:45:36,219 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00038s] {'filter_1': 1}
+2021-12-25 14:45:36,268 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-25 14:45:36,280 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 14:45:36] "[37mGET /patent-query/query/patent-count HTTP/1.1[0m" 200 -
+2021-12-25 14:48:21,043 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 14:48:21,044 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise FROM hb_patent
+2021-12-25 14:48:21,044 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00044s] {}
+2021-12-25 14:48:27,553 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 14:48:53,150 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 14:48:53] "[37mGET /patent-query/query/enterprise-count HTTP/1.1[0m" 200 -
+2021-12-25 14:50:17,180 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 14:50:17,181 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise,province FROM hb_patent WHERE filter>1
+2021-12-25 14:50:17,181 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00031s] {}
+2021-12-25 14:50:22,209 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 14:50:22,835 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 14:50:22] "[37mGET /patent-query/query/province-enterprise-dict HTTP/1.1[0m" 200 -
+2021-12-25 14:57:54,763 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 14:57:54,764 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise,city FROM hb_patent WHERE filter>1
+2021-12-25 14:57:54,764 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00047s] {}
+2021-12-25 14:57:59,679 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 14:57:59,880 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 14:57:59] "[37mGET /patent-query/query/city-enterprise-dict HTTP/1.1[0m" 200 -
+2021-12-25 15:09:13,295 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Detected change in '/home/BH/sy1906413/project/tpidentify/app/dao/mysql/PatentDAO.py', reloading
+2021-12-25 15:09:13,483 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 15:09:13,730 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:09:15,368 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:09:15,369 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:09:16,139 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.770 seconds.
+2021-12-25 15:09:16,139 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:09:19,485 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:09:21,094 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:09:21,094 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:09:21,833 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.740 seconds.
+2021-12-25 15:09:21,834 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:09:27,612 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-12-25 15:09:27,613 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 15:09:27,843 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:09:29,497 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:09:29,498 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:09:30,250 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.752 seconds.
+2021-12-25 15:09:30,250 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:09:36,007 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - WARNING:  * Debugger is active!
+2021-12-25 15:09:36,008 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Debugger PIN: 133-945-134
+2021-12-25 15:10:03,058 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 15:10:03,059 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:10:03,069 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 15:10:03,069 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00045s] {}
+2021-12-25 15:10:03,084 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 15:10:03,084 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:10:03,104 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:10:03,115 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_patent.id AS hb_patent_id, hb_patent.iter_num AS hb_patent_iter_num, hb_patent.id_num AS hb_patent_id_num, hb_patent.title AS hb_patent_title, hb_patent.tec_keyw AS hb_patent_tec_keyw, hb_patent.applicant AS hb_patent_applicant, hb_patent.patent_type AS hb_patent_patent_type, hb_patent.appli_num AS hb_patent_appli_num, hb_patent.appli_day AS hb_patent_appli_day, hb_patent.public_num AS hb_patent_public_num, hb_patent.public_day AS hb_patent_public_day, hb_patent.main_ipc AS hb_patent_main_ipc, hb_patent.big_ipc AS hb_patent_big_ipc, hb_patent.province AS hb_patent_province, hb_patent.city AS hb_patent_city, hb_patent.enterprise AS hb_patent_enterprise, hb_patent.abstract AS hb_patent_abstract, hb_patent.cited_patent AS hb_patent_cited_patent, hb_patent.citing_patent AS hb_patent_citing_patent, hb_patent.citing_liter AS hb_patent_citing_liter, hb_patent.ipc AS hb_patent_ipc, hb_patent.filter AS hb_patent_filter 
+FROM hb_patent 
+WHERE hb_patent.filter > %(filter_1)s) AS anon_1
+2021-12-25 15:10:03,115 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00036s] {'filter_1': 1}
+2021-12-25 15:10:03,174 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-25 15:10:03,188 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 15:10:03] "[37mGET /patent-query/query/patent-count HTTP/1.1[0m" 200 -
+2021-12-25 15:10:32,436 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:10:32,437 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise FROM hb_patent
+2021-12-25 15:10:32,437 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00031s] {}
+2021-12-25 15:10:38,972 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 15:11:04,884 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 15:11:04] "[37mGET /patent-query/query/enterprise-count HTTP/1.1[0m" 200 -
+2021-12-25 15:11:37,847 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:11:37,848 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise,province FROM hb_patent WHERE filter>1
+2021-12-25 15:11:37,848 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00033s] {}
+2021-12-25 15:11:42,730 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 15:11:43,447 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 15:11:43] "[37mGET /patent-query/query/province-enterprise-dict HTTP/1.1[0m" 200 -
+2021-12-25 15:11:47,563 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:11:47,563 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise,province FROM hb_patent WHERE filter>1
+2021-12-25 15:11:47,564 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [cached since 9.716s ago] {}
+2021-12-25 15:11:52,522 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 15:11:53,237 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 15:11:53] "[37mGET /patent-query/query/province-enterprise-dict HTTP/1.1[0m" 200 -
+2021-12-25 15:12:16,388 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:12:16,389 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise FROM hb_patent
+2021-12-25 15:12:16,389 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [cached since 104s ago] {}
+2021-12-25 15:12:22,765 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 15:12:49,205 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 15:12:49] "[37mGET /patent-query/query/enterprise-count HTTP/1.1[0m" 200 -
+2021-12-25 15:18:13,860 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Detected change in '/home/BH/sy1906413/project/tpidentify/app/dao/mysql/PatentDAO.py', reloading
+2021-12-25 15:18:14,046 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 15:18:14,295 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:18:15,893 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:18:15,894 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:18:16,624 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.730 seconds.
+2021-12-25 15:18:16,624 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:18:21,418 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:18:23,012 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:18:23,012 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:18:23,752 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.740 seconds.
+2021-12-25 15:18:23,752 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:18:29,467 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-12-25 15:18:29,468 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 15:18:29,691 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:18:31,270 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:18:31,270 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:18:32,032 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.762 seconds.
+2021-12-25 15:18:32,032 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:18:37,700 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - WARNING:  * Debugger is active!
+2021-12-25 15:18:37,700 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Debugger PIN: 133-945-134
+2021-12-25 15:18:45,384 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 15:18:45,384 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:18:45,392 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 15:18:45,392 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00047s] {}
+2021-12-25 15:18:45,406 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 15:18:45,407 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:18:45,425 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:18:45,426 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise FROM hb_patent
+2021-12-25 15:18:45,426 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00042s] {}
+2021-12-25 15:18:51,810 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 15:18:52,091 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 15:18:52] "[37mGET /patent-query/query/enterprise-count HTTP/1.1[0m" 200 -
+2021-12-25 15:22:06,433 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Detected change in '/home/BH/sy1906413/project/tpidentify/app/dao/mysql/PatentDAO.py', reloading
+2021-12-25 15:22:06,619 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 15:22:06,859 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:22:08,476 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:22:08,476 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:22:09,221 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.745 seconds.
+2021-12-25 15:22:09,221 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:22:14,868 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:22:15,104 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - WARNING:  * Debugger is active!
+2021-12-25 15:22:15,104 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Debugger PIN: 133-945-134
+2021-12-25 15:22:16,150 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:22:16,150 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:22:16,889 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.739 seconds.
+2021-12-25 15:22:16,889 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:22:22,721 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 15:22:22,721 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:22:22,729 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 15:22:22,730 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00023s] {}
+2021-12-25 15:22:22,743 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 15:22:22,744 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:22:22,763 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:22:22,775 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_patent.id AS hb_patent_id, hb_patent.iter_num AS hb_patent_iter_num, hb_patent.id_num AS hb_patent_id_num, hb_patent.title AS hb_patent_title, hb_patent.tec_keyw AS hb_patent_tec_keyw, hb_patent.applicant AS hb_patent_applicant, hb_patent.patent_type AS hb_patent_patent_type, hb_patent.appli_num AS hb_patent_appli_num, hb_patent.appli_day AS hb_patent_appli_day, hb_patent.public_num AS hb_patent_public_num, hb_patent.public_day AS hb_patent_public_day, hb_patent.main_ipc AS hb_patent_main_ipc, hb_patent.big_ipc AS hb_patent_big_ipc, hb_patent.province AS hb_patent_province, hb_patent.city AS hb_patent_city, hb_patent.enterprise AS hb_patent_enterprise, hb_patent.abstract AS hb_patent_abstract, hb_patent.cited_patent AS hb_patent_cited_patent, hb_patent.citing_patent AS hb_patent_citing_patent, hb_patent.citing_liter AS hb_patent_citing_liter, hb_patent.ipc AS hb_patent_ipc, hb_patent.filter AS hb_patent_filter 
+FROM hb_patent 
+WHERE hb_patent.filter > %(filter_1)s) AS anon_1
+2021-12-25 15:22:22,776 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00058s] {'filter_1': 1}
+2021-12-25 15:22:22,834 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-25 15:22:40,084 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:22:41,351 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:22:41,352 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:22:42,101 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.750 seconds.
+2021-12-25 15:22:42,102 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:22:47,940 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 15:22:47,941 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:22:47,950 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 15:22:47,950 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00039s] {}
+2021-12-25 15:22:47,966 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 15:22:47,966 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:22:47,988 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:22:47,988 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise,city FROM hb_patent WHERE filter>1
+2021-12-25 15:22:47,989 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00042s] {}
+2021-12-25 15:22:52,529 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 15:23:01,023 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:23:02,691 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:23:02,692 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:23:03,428 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.736 seconds.
+2021-12-25 15:23:03,428 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:23:09,270 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-12-25 15:23:09,271 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 15:23:09,508 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:23:11,116 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:23:11,117 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:23:11,866 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.749 seconds.
+2021-12-25 15:23:11,866 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:23:17,687 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - WARNING:  * Debugger is active!
+2021-12-25 15:23:17,688 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Debugger PIN: 133-945-134
+2021-12-25 15:23:41,678 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 15:23:41,679 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:23:41,686 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 15:23:41,687 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00041s] {}
+2021-12-25 15:23:41,699 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 15:23:41,700 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:23:41,717 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:23:41,717 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise,province FROM hb_patent WHERE filter>1
+2021-12-25 15:23:41,718 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00041s] {}
+2021-12-25 15:23:46,580 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 15:23:46,825 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 15:23:46] "[37mGET /patent-query/query/province-enterprise-dict HTTP/1.1[0m" 200 -
+2021-12-25 15:23:59,309 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:23:59,310 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise FROM hb_patent
+2021-12-25 15:23:59,310 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00045s] {}
+2021-12-25 15:24:05,614 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 15:24:05,870 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 15:24:05] "[37mGET /patent-query/query/enterprise-count HTTP/1.1[0m" 200 -
+2021-12-25 15:28:22,316 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Detected change in '/home/BH/sy1906413/project/tpidentify/app/common/BaseDAO.py', reloading
+2021-12-25 15:28:22,508 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 15:28:22,730 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:28:24,352 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:28:24,353 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:28:25,098 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.745 seconds.
+2021-12-25 15:28:25,098 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:28:30,850 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - WARNING:  * Debugger is active!
+2021-12-25 15:28:30,850 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Debugger PIN: 133-945-134
+2021-12-25 15:29:14,575 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Detected change in '/home/BH/sy1906413/project/tpidentify/app/common/BaseDAO.py', reloading
+2021-12-25 15:29:14,757 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 15:29:15,002 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:29:16,586 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:29:16,587 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:29:17,334 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.748 seconds.
+2021-12-25 15:29:17,335 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:29:23,173 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - WARNING:  * Debugger is active!
+2021-12-25 15:29:23,173 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Debugger PIN: 133-945-134
+2021-12-25 15:29:25,214 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Detected change in '/home/BH/sy1906413/project/tpidentify/app/common/BaseDAO.py', reloading
+2021-12-25 15:29:25,384 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 15:29:25,617 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:29:27,234 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:29:27,234 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:29:27,974 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.740 seconds.
+2021-12-25 15:29:27,974 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:29:33,954 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - WARNING:  * Debugger is active!
+2021-12-25 15:29:33,954 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Debugger PIN: 133-945-134
+2021-12-25 15:29:45,145 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Detected change in '/home/BH/sy1906413/project/tpidentify/app/common/BaseDAO.py', reloading
+2021-12-25 15:29:45,321 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 15:29:45,528 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:29:47,162 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:29:47,162 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:29:47,899 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.737 seconds.
+2021-12-25 15:29:47,899 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:29:53,645 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - WARNING:  * Debugger is active!
+2021-12-25 15:29:53,645 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Debugger PIN: 133-945-134
+2021-12-25 15:30:35,729 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:30:37,320 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:30:37,321 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:30:38,053 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.732 seconds.
+2021-12-25 15:30:38,053 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:30:43,877 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-12-25 15:30:43,877 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Restarting with stat
+2021-12-25 15:30:44,120 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-25 15:30:45,773 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-25 15:30:45,774 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-25 15:30:46,528 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.754 seconds.
+2021-12-25 15:30:46,528 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-25 15:30:52,378 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - WARNING:  * Debugger is active!
+2021-12-25 15:30:52,379 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO:  * Debugger PIN: 133-945-134
+2021-12-25 15:31:05,016 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-25 15:31:05,016 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:31:05,025 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-25 15:31:05,025 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00040s] {}
+2021-12-25 15:31:05,038 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-25 15:31:05,038 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-25 15:31:05,055 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:31:05,055 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise FROM hb_patent WHERE filter>1
+2021-12-25 15:31:05,056 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00038s] {}
+2021-12-25 15:31:09,002 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 15:31:09,220 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 15:31:09] "[37mGET /patent-query/query/enterprise-count HTTP/1.1[0m" 200 -
+2021-12-25 15:40:55,731 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-25 15:40:55,732 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT enterprise FROM hb_patent WHERE filter>1
+2021-12-25 15:40:55,733 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [cached since 590.7s ago] {}
+2021-12-25 15:40:59,566 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-25 15:40:59,728 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/werkzeug/_internal.py[func:_log line:113] - INFO: 10.136.87.53 - - [25/Dec/2021 15:40:59] "[37mGET /patent-query/query/enterprise-count HTTP/1.1[0m" 200 -

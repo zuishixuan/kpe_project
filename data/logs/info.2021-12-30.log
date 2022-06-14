@@ -1,0 +1,459 @@
+2021-12-30 13:20:34,340 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 13:20:35,273 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 13:20:35,274 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 13:20:35,878 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 13:20:35,925 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmp8hcapwj8' -> '/tmp/jieba.cache'
+2021-12-30 13:20:35,925 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.652 seconds.
+2021-12-30 13:20:35,925 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 13:20:40,729 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-30 13:20:40,730 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 13:20:40,745 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-30 13:20:40,745 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00045s] {}
+2021-12-30 13:20:40,764 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-30 13:20:40,764 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 13:20:40,785 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-30 13:20:40,796 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise) AS anon_1
+2021-12-30 13:20:40,796 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00052s] {}
+2021-12-30 13:20:40,806 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-30 13:21:21,667 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 13:21:22,563 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 13:21:22,563 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 13:21:23,164 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 13:21:23,214 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpbjmzxfl6' -> '/tmp/jieba.cache'
+2021-12-30 13:21:23,214 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.651 seconds.
+2021-12-30 13:21:23,214 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 13:21:27,959 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-30 13:21:27,960 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 13:21:27,968 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-30 13:21:27,968 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00046s] {}
+2021-12-30 13:21:27,984 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-30 13:21:27,985 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 13:21:28,004 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-30 13:21:28,015 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise) AS anon_1
+2021-12-30 13:21:28,016 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00052s] {}
+2021-12-30 13:21:28,023 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-30 14:05:43,930 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 14:05:44,870 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 14:05:44,871 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 14:05:45,482 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 14:05:45,533 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpkbwe2_or' -> '/tmp/jieba.cache'
+2021-12-30 14:05:45,533 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.663 seconds.
+2021-12-30 14:05:45,533 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 14:05:50,446 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-30 14:05:50,447 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 14:05:50,456 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-30 14:05:50,456 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00042s] {}
+2021-12-30 14:05:50,472 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-30 14:05:50,472 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 14:05:50,494 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-30 14:05:50,501 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise 
+WHERE hb_dongguang_enterprise.id = %(pk_1)s
+2021-12-30 14:05:50,501 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00064s] {'pk_1': 1}
+2021-12-30 14:05:50,511 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-30 15:02:21,649 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 15:02:22,549 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 15:02:22,550 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 15:02:23,144 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 15:02:23,190 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpikdjgy5r' -> '/tmp/jieba.cache'
+2021-12-30 15:02:23,191 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.642 seconds.
+2021-12-30 15:02:23,191 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 15:02:27,941 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-30 15:02:27,942 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 15:02:27,951 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-30 15:02:27,951 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00040s] {}
+2021-12-30 15:02:27,966 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-30 15:02:27,966 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 15:02:27,987 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-30 15:02:27,994 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise ORDER BY hb_dongguang_enterprise.reg_capital DESC 
+ LIMIT %(param_1)s
+2021-12-30 15:02:27,994 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00058s] {'param_1': 10}
+2021-12-30 15:02:28,007 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-30 15:03:11,730 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 15:03:12,627 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 15:03:12,628 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 15:03:13,217 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 15:03:13,263 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpk12v9n_d' -> '/tmp/jieba.cache'
+2021-12-30 15:03:13,263 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.636 seconds.
+2021-12-30 15:03:13,263 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 15:03:18,007 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-30 15:03:18,008 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 15:03:18,016 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-30 15:03:18,017 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00043s] {}
+2021-12-30 15:03:18,031 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-30 15:03:18,032 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 15:03:18,050 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-30 15:03:18,057 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise ORDER BY hb_dongguang_enterprise.reg_capital DESC 
+ LIMIT %(param_1)s
+2021-12-30 15:03:18,057 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00062s] {'param_1': 10}
+2021-12-30 15:03:18,070 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-30 15:13:16,185 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 15:13:17,084 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 15:13:17,084 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 15:13:17,685 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 15:13:17,735 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmp1gqzbbx2' -> '/tmp/jieba.cache'
+2021-12-30 15:13:17,735 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.651 seconds.
+2021-12-30 15:13:17,735 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 15:13:22,560 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-30 15:13:22,561 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 15:13:22,570 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-30 15:13:22,570 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00050s] {}
+2021-12-30 15:13:22,586 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-30 15:13:22,586 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 15:13:22,607 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-30 15:13:22,614 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise 
+WHERE hb_dongguang_enterprise.id = %(pk_1)s
+2021-12-30 15:13:22,614 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00060s] {'pk_1': 1}
+2021-12-30 15:13:22,623 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-30 16:45:06,686 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 16:45:07,618 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 16:45:07,619 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 16:45:08,232 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 16:45:08,282 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmp5bv9zymk' -> '/tmp/jieba.cache'
+2021-12-30 16:45:08,283 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.665 seconds.
+2021-12-30 16:45:08,283 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 16:45:13,374 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.016s]
+2021-12-30 16:45:13,386 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: PUT http://39.106.49.131:9006/dongguang_enterprise [status:400 request:0.011s]
+2021-12-30 16:45:13,460 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-30 16:45:13,460 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 16:45:13,470 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-30 16:45:13,470 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00046s] {}
+2021-12-30 16:45:13,485 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-30 16:45:13,486 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 16:45:13,505 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-30 16:45:13,516 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise) AS anon_1
+2021-12-30 16:45:13,516 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00045s] {}
+2021-12-30 16:45:13,525 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:133] - INFO: =================分页查询数据库记录数据，共 3 页 ================
+2021-12-30 16:45:13,525 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:137] - INFO: ****************正查询 [ 1/3 ] 页数据**************
+2021-12-30 16:45:13,529 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise ORDER BY hb_dongguang_enterprise.id ASC 
+ LIMIT %(param_1)s, %(param_2)s
+2021-12-30 16:45:13,529 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00060s] {'param_1': 0, 'param_2': 600}
+2021-12-30 16:45:13,675 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:141] - INFO: 数据库查询用时时间：0.14948225021362305
+2021-12-30 16:45:14,066 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.379s]
+2021-12-30 16:45:14,228 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.097s]
+2021-12-30 16:45:14,230 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:150] - INFO: 插入索引用时为：0.5546011924743652
+2021-12-30 16:45:14,230 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:137] - INFO: ****************正查询 [ 2/3 ] 页数据**************
+2021-12-30 16:45:14,231 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise ORDER BY hb_dongguang_enterprise.id ASC 
+ LIMIT %(param_1)s, %(param_2)s
+2021-12-30 16:45:14,231 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [cached since 0.7028s ago] {'param_1': 600, 'param_2': 600}
+2021-12-30 16:45:14,321 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:141] - INFO: 数据库查询用时时间：0.09072995185852051
+2021-12-30 16:45:14,747 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.415s]
+2021-12-30 16:45:14,878 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.120s]
+2021-12-30 16:45:14,880 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:150] - INFO: 插入索引用时为：0.5593585968017578
+2021-12-30 16:45:14,880 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:137] - INFO: ****************正查询 [ 3/3 ] 页数据**************
+2021-12-30 16:45:14,882 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise ORDER BY hb_dongguang_enterprise.id ASC 
+ LIMIT %(param_1)s, %(param_2)s
+2021-12-30 16:45:14,882 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [cached since 1.353s ago] {'param_1': 1200, 'param_2': 600}
+2021-12-30 16:45:14,939 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:141] - INFO: 数据库查询用时时间：0.0583033561706543
+2021-12-30 16:45:15,512 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.562s]
+2021-12-30 16:45:15,588 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.066s]
+2021-12-30 16:45:15,589 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:150] - INFO: 插入索引用时为：0.6505963802337646
+2021-12-30 16:45:15,590 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:156] - INFO: =================全部数据共1778条。用时为：2.0643503665924072======================
+2021-12-30 16:45:15,590 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-30 17:33:53,640 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 17:33:54,509 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 17:33:54,510 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 17:33:55,104 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 17:33:55,152 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpk152moey' -> '/tmp/jieba.cache'
+2021-12-30 17:33:55,152 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.643 seconds.
+2021-12-30 17:33:55,152 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 17:34:00,152 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.018s]
+2021-12-30 17:34:00,163 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: PUT http://39.106.49.131:9006/dongguang_enterprise [status:400 request:0.011s]
+2021-12-30 17:34:00,240 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-30 17:34:00,241 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 17:34:00,250 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-30 17:34:00,250 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00041s] {}
+2021-12-30 17:34:00,265 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-30 17:34:00,266 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-30 17:34:00,285 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-30 17:34:00,296 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise) AS anon_1
+2021-12-30 17:34:00,297 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00065s] {}
+2021-12-30 17:34:00,306 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:133] - INFO: =================分页查询数据库记录数据，共 3 页 ================
+2021-12-30 17:34:00,306 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:137] - INFO: ****************正查询 [ 1/3 ] 页数据**************
+2021-12-30 17:34:00,309 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise ORDER BY hb_dongguang_enterprise.id ASC 
+ LIMIT %(param_1)s, %(param_2)s
+2021-12-30 17:34:00,309 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00056s] {'param_1': 0, 'param_2': 600}
+2021-12-30 17:34:00,587 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:141] - INFO: 数据库查询用时时间：0.2812769412994385
+2021-12-30 17:34:01,170 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.569s]
+2021-12-30 17:34:01,332 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.091s]
+2021-12-30 17:34:01,334 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:150] - INFO: 插入索引用时为：0.7464582920074463
+2021-12-30 17:34:01,334 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:137] - INFO: ****************正查询 [ 2/3 ] 页数据**************
+2021-12-30 17:34:01,335 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise ORDER BY hb_dongguang_enterprise.id ASC 
+ LIMIT %(param_1)s, %(param_2)s
+2021-12-30 17:34:01,336 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [cached since 1.027s ago] {'param_1': 600, 'param_2': 600}
+2021-12-30 17:34:01,503 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:141] - INFO: 数据库查询用时时间：0.16844415664672852
+2021-12-30 17:34:02,041 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.525s]
+2021-12-30 17:34:02,393 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.341s]
+2021-12-30 17:34:02,394 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:150] - INFO: 插入索引用时为：0.8916418552398682
+2021-12-30 17:34:02,395 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:137] - INFO: ****************正查询 [ 3/3 ] 页数据**************
+2021-12-30 17:34:02,396 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT hb_dongguang_enterprise.id AS hb_dongguang_enterprise_id, hb_dongguang_enterprise.name AS hb_dongguang_enterprise_name, hb_dongguang_enterprise.reg_status AS hb_dongguang_enterprise_reg_status, hb_dongguang_enterprise.reg_capital AS hb_dongguang_enterprise_reg_capital, hb_dongguang_enterprise.establish_data AS hb_dongguang_enterprise_establish_data, hb_dongguang_enterprise.approval_data AS hb_dongguang_enterprise_approval_data, hb_dongguang_enterprise.province AS hb_dongguang_enterprise_province, hb_dongguang_enterprise.city AS hb_dongguang_enterprise_city, hb_dongguang_enterprise.county AS hb_dongguang_enterprise_county, hb_dongguang_enterprise.town AS hb_dongguang_enterprise_town, hb_dongguang_enterprise.dist AS hb_dongguang_enterprise_dist, hb_dongguang_enterprise.year AS hb_dongguang_enterprise_year, hb_dongguang_enterprise.industry AS hb_dongguang_enterprise_industry, hb_dongguang_enterprise.address AS hb_dongguang_enterprise_address, hb_dongguang_enterprise.business_scope AS hb_dongguang_enterprise_business_scope, hb_dongguang_enterprise.business_scope_words AS hb_dongguang_enterprise_business_scope_words, hb_dongguang_enterprise.research_field AS hb_dongguang_enterprise_research_field 
+FROM hb_dongguang_enterprise ORDER BY hb_dongguang_enterprise.id ASC 
+ LIMIT %(param_1)s, %(param_2)s
+2021-12-30 17:34:02,396 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [cached since 2.087s ago] {'param_1': 1200, 'param_2': 600}
+2021-12-30 17:34:02,477 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:141] - INFO: 数据库查询用时时间：0.08179879188537598
+2021-12-30 17:34:02,760 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.273s]
+2021-12-30 17:34:02,817 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/_bulk [status:200 request:0.047s]
+2021-12-30 17:34:02,819 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:150] - INFO: 插入索引用时为：0.3421661853790283
+2021-12-30 17:34:02,819 - /home/xuan/project/tpidentify/app/common/EsRepositoryInterface.py[func:full_import line:156] - INFO: =================全部数据共1778条。用时为：2.513000726699829======================
+2021-12-30 17:34:02,820 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-30 17:51:29,197 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 17:51:30,072 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 17:51:30,073 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 17:51:30,693 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 17:51:30,742 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpxgx_46da' -> '/tmp/jieba.cache'
+2021-12-30 17:51:30,742 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.670 seconds.
+2021-12-30 17:51:30,742 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 17:51:48,063 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 17:51:48,937 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 17:51:48,938 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 17:51:49,532 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 17:51:49,580 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmplz10n5kz' -> '/tmp/jieba.cache'
+2021-12-30 17:51:49,580 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.643 seconds.
+2021-12-30 17:51:49,580 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 17:52:31,163 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 17:52:32,034 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 17:52:32,035 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 17:52:32,633 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 17:52:32,681 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpqk9wtlze' -> '/tmp/jieba.cache'
+2021-12-30 17:52:32,681 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.647 seconds.
+2021-12-30 17:52:32,682 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 17:52:37,620 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.015s]
+2021-12-30 17:52:37,634 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.012s]
+2021-12-30 17:53:27,957 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 17:53:28,849 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 17:53:28,850 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 17:53:29,451 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 17:53:29,498 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpi0uow8ac' -> '/tmp/jieba.cache'
+2021-12-30 17:53:29,499 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.649 seconds.
+2021-12-30 17:53:29,499 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 17:53:34,538 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.015s]
+2021-12-30 17:53:34,589 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.050s]
+2021-12-30 17:54:57,189 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 17:54:58,059 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 17:54:58,060 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 17:54:58,657 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 17:54:58,706 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpvlk0m1gj' -> '/tmp/jieba.cache'
+2021-12-30 17:54:58,706 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.647 seconds.
+2021-12-30 17:54:58,706 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 17:56:17,378 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 17:56:23,022 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 17:56:23,023 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 17:56:23,905 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 17:56:23,954 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpvub2ieuv' -> '/tmp/jieba.cache'
+2021-12-30 17:56:23,955 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.933 seconds.
+2021-12-30 17:56:23,956 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 17:58:02,974 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 17:58:03,852 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 17:58:03,852 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 17:58:04,454 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 17:58:04,502 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmp3lx0nclo' -> '/tmp/jieba.cache'
+2021-12-30 17:58:04,502 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.650 seconds.
+2021-12-30 17:58:04,502 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 17:58:09,452 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.017s]
+2021-12-30 17:58:09,499 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.045s]
+2021-12-30 18:39:03,243 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 18:39:04,134 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 18:39:04,135 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 18:39:04,728 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 18:39:04,774 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpwoaq0mh6' -> '/tmp/jieba.cache'
+2021-12-30 18:39:04,774 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.640 seconds.
+2021-12-30 18:39:04,775 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 18:39:09,513 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.017s]
+2021-12-30 18:39:09,553 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.039s]
+2021-12-30 19:02:01,883 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 19:02:02,771 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 19:02:02,772 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 19:02:03,358 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 19:02:03,403 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpt8facy7y' -> '/tmp/jieba.cache'
+2021-12-30 19:02:03,404 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.632 seconds.
+2021-12-30 19:02:03,404 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 19:02:08,080 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.016s]
+2021-12-30 19:02:08,125 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.044s]
+2021-12-30 19:03:36,041 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 19:03:36,931 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 19:03:36,931 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 19:03:37,520 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 19:03:37,570 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmp0dcuzhv7' -> '/tmp/jieba.cache'
+2021-12-30 19:03:37,571 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.640 seconds.
+2021-12-30 19:03:37,571 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 19:03:42,214 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.016s]
+2021-12-30 19:03:42,238 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.023s]
+2021-12-30 19:09:19,748 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 19:09:20,649 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 19:09:20,649 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 19:09:21,243 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 19:09:21,290 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpw5yd8vsy' -> '/tmp/jieba.cache'
+2021-12-30 19:09:21,290 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.641 seconds.
+2021-12-30 19:09:21,290 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 19:09:25,946 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.016s]
+2021-12-30 19:09:25,959 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.011s]
+2021-12-30 19:12:04,856 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 19:12:05,749 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 19:12:05,749 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 19:12:06,354 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 19:12:06,400 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmph5i6qga9' -> '/tmp/jieba.cache'
+2021-12-30 19:12:06,401 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.652 seconds.
+2021-12-30 19:12:06,401 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 19:12:11,123 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.016s]
+2021-12-30 19:12:11,140 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.016s]
+2021-12-30 19:20:37,257 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 19:20:38,157 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 19:20:38,158 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 19:20:38,760 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 19:20:38,806 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpu5gkx15n' -> '/tmp/jieba.cache'
+2021-12-30 19:20:38,807 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.649 seconds.
+2021-12-30 19:20:38,807 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 19:20:43,458 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.016s]
+2021-12-30 19:20:43,477 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_fail line:288] - WARNING: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:500 request:0.017s]
+2021-12-30 19:31:00,469 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 19:31:06,212 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 19:31:06,213 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 19:31:07,108 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 19:31:07,157 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmp_fxlf678' -> '/tmp/jieba.cache'
+2021-12-30 19:31:07,158 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.945 seconds.
+2021-12-30 19:31:07,159 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 19:31:36,891 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.019s]
+2021-12-30 19:31:36,927 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.033s]
+2021-12-30 19:31:52,605 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 19:31:58,300 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 19:31:58,301 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 19:31:59,172 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 19:31:59,219 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmptudaahsf' -> '/tmp/jieba.cache'
+2021-12-30 19:31:59,220 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.920 seconds.
+2021-12-30 19:31:59,221 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 19:33:07,582 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.027s]
+2021-12-30 19:33:07,611 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.023s]
+2021-12-30 19:34:02,279 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 19:34:03,180 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 19:34:03,180 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 19:34:03,766 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 19:34:03,813 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmp9are93p4' -> '/tmp/jieba.cache'
+2021-12-30 19:34:03,813 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.633 seconds.
+2021-12-30 19:34:03,814 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 19:34:08,564 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.016s]
+2021-12-30 19:34:08,601 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.036s]
+2021-12-30 19:34:41,278 - /home/xuan/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-30 19:34:42,170 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-30 19:34:42,171 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:132] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-30 19:34:42,767 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:146] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-30 19:34:42,813 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:156] - ERROR: Dump cache file failed.
+Traceback (most recent call last):
+  File "/home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py", line 154, in initialize
+    _replace_file(fpath, cache_file)
+PermissionError: [Errno 1] Operation not permitted: '/tmp/tmpue1lbnme' -> '/tmp/jieba.cache'
+2021-12-30 19:34:42,813 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:164] - DEBUG: Loading model cost 0.643 seconds.
+2021-12-30 19:34:42,813 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-30 19:34:47,467 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: GET http://39.106.49.131:9006/ [status:200 request:0.017s]
+2021-12-30 19:34:47,495 - /home/xuan/miniconda3/envs/tpidentify/lib/python3.8/site-packages/elasticsearch/connection/base.py[func:log_request_success line:265] - INFO: POST http://39.106.49.131:9006/dongguang_enterprise/_search [status:200 request:0.026s]

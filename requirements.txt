@@ -1,0 +1,30 @@
+Flask~=1.1.4
+requests~=2.25.1
+Flask-Script==2.0.6
+pytest~=5.0.1
+gevent~=21.1.2
+gensim~=4.1.2
+jieba~=0.42.1
+numpy~=1.21.5
+gunicorn~=20.1.0
+elasticsearch~=7.16.0
+pandas~=1.2.4
+matplotlib~=3.5.1
+# pyLDAvis~=3.3.0
+flask_sqlalchemy ==2.5.1
+pymysql == 1.0.2
+sqlalchemy~=1.4.20
+werkzeug==0.16.1
+sklearn~=0.0
+opencv-python-headless~=4.5.4
+regex~=2021.11.10
+transformers
+datasets
+networkx == 2.6.3
+openpyxl
+redis==3.5.3
+torch==1.10.2
+torchvision==0.11.3
+TorchCRF
+d2l
+fuzzywuzzy

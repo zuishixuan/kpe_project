@@ -1,0 +1,91 @@
+{
+  "settings": {
+    "number_of_replicas": 1,
+    "number_of_shards": 4,
+    "analysis": {
+      "analyzer": {
+        "chinese_analyzer": {
+          "type": "custom",
+          "tokenizer": "ik_max_word"
+        },
+        "english_analyzer": {
+          "type": "standard",
+          "max_token_length": 5,
+          "stopwords": "_english_"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "id": {
+        "type": "keyword",
+        "index": "false"
+      },
+      "month": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "year": {
+        "type": "integer",
+        "index": "true"
+      },
+      "country": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "province": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "category_id": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "doc_num": {
+        "type": "integer",
+        "index": "true"
+      },
+      "words_num": {
+        "type": "integer",
+        "index": "true"
+      },
+      "words_2": {
+        "properties": {
+          "n": {
+            "type": "keyword",
+            "index": true
+          },
+          "w": {
+            "type": "long",
+            "index": true
+          }
+        }
+      },
+      "words": {
+        "properties": {
+          "patent_id": {
+            "type": "keyword",
+            "index": true
+          },
+          "name": {
+            "type": "keyword",
+            "index": true
+          },
+          "weight": {
+            "type": "long",
+            "index": true
+          },
+          "total_words": {
+            "type": "integer",
+            "index": "true"
+          },
+          "total_weights": {
+            "type": "integer",
+            "index": "true"
+          }
+        }
+      }
+    }
+  }
+}

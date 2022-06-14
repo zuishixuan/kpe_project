@@ -1,0 +1,83 @@
+{
+  "settings": {
+    "number_of_replicas": 1,
+    "number_of_shards": 4,
+    "analysis": {
+      "analyzer": {
+        "chinese_analyzer": {
+          "type": "custom",
+          "tokenizer": "ik_max_word"
+        },
+        "english_analyzer": {
+          "type": "standard",
+          "max_token_length": 5,
+          "stopwords": "_english_"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "id": {
+        "type": "keyword",
+        "index": "false"
+      },
+      "year": {
+        "type": "integer",
+        "index": "true"
+      },
+      "month": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "country": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "province": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "area": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "category_id": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "name": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "doc_num": {
+        "type": "integer",
+        "index": "true"
+      },
+      "weight": {
+        "type": "integer",
+        "index": "true"
+      },
+      "doc_ids": {
+        "type": "keyword",
+        "index": "false"
+      },
+      "doc_weights": {
+        "type": "integer",
+        "index": "true"
+      },
+      "words": {
+        "properties": {
+          "n": {
+            "type": "keyword",
+            "index": "true"
+          },
+          "w": {
+            "type": "integer",
+            "index": "true"
+          }
+        }
+      }
+    }
+  }
+}

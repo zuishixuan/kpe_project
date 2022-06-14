@@ -1,0 +1,158 @@
+{
+  "settings": {
+    "number_of_replicas": 1,
+    "number_of_shards": 4,
+    "analysis": {
+      "analyzer": {
+        "chinese_analyzer": {
+          "type": "custom",
+          "tokenizer": "ik_max_word"
+        },
+        "english_analyzer": {
+          "type": "standard",
+          "max_token_length": 5,
+          "stopwords": "_english_"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "id": {
+        "type": "integer",
+        "index": "false"
+      },
+      "name": {
+        "type": "text",
+        "index": "true",
+        "analyzer": "chinese_analyzer",
+        "search_analyzer": "chinese_analyzer"
+      },
+      "reg_status": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "reg_capital": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "establish_data": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "approval_data": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "province": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "city": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "county": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "industry": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "address": {
+        "type": "text",
+        "index": "true",
+        "analyzer": "chinese_analyzer",
+        "search_analyzer": "chinese_analyzer"
+      },
+      "business_scope": {
+        "type": "text",
+        "index": "true",
+        "analyzer": "chinese_analyzer",
+        "search_analyzer": "chinese_analyzer"
+      },
+
+      "year": {
+        "type": "integer",
+        "index": "false"
+      },
+      "legal_representative": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "phone_number": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "more_phone_number": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "email": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "more_email": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "unified_social_credit_code": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "taxpayer_identification_number": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "reg_number": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "organization_code": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "insured_num": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "enterprise_type": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "name_used_before": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "english_name": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "website": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "latest_annual_report_address": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "reg_capital_num": {
+        "type": "float",
+        "index": "true"
+      },
+      "reg_capital_unit": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "country": {
+        "type": "keyword",
+        "index": "true"
+      },
+      "business_scope_words": {
+        "type": "keyword",
+        "index": "true"
+      }
+    }
+  }
+}

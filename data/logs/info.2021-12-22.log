@@ -1,0 +1,157 @@
+2021-12-22 22:46:24,053 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-22 22:46:25,765 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-22 22:46:26,562 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:147] - DEBUG: Dumping model to file cache /tmp/jieba.cache
+2021-12-22 22:46:26,622 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.856 seconds.
+2021-12-22 22:46:26,622 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-22 22:46:32,840 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-22 22:46:32,841 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 22:46:32,848 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-22 22:46:32,848 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00041s] {}
+2021-12-22 22:46:32,860 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-22 22:46:32,860 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 22:46:32,875 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-22 22:46:32,881 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT count(*) AS count_1 
+FROM (SELECT hb_patent.id AS hb_patent_id, hb_patent.iter_num AS hb_patent_iter_num, hb_patent.id_num AS hb_patent_id_num, hb_patent.name AS hb_patent_name, hb_patent.tec_keyw AS hb_patent_tec_keyw, hb_patent.applicant AS hb_patent_applicant, hb_patent.patent_type AS hb_patent_patent_type, hb_patent.appli_num AS hb_patent_appli_num, hb_patent.appli_day AS hb_patent_appli_day, hb_patent.public_num AS hb_patent_public_num, hb_patent.public_day AS hb_patent_public_day, hb_patent.main_ipc AS hb_patent_main_ipc, hb_patent.big_ipc AS hb_patent_big_ipc, hb_patent.province AS hb_patent_province, hb_patent.city AS hb_patent_city, hb_patent.abst AS hb_patent_abst, hb_patent.cited_patent AS hb_patent_cited_patent, hb_patent.citing_patent AS hb_patent_citing_patent, hb_patent.citing_liter AS hb_patent_citing_liter, hb_patent.ipc AS hb_patent_ipc, hb_patent.filter AS hb_patent_filter 
+FROM hb_patent) AS anon_1
+2021-12-22 22:46:32,881 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00029s] {}
+2021-12-22 22:46:32,903 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: ROLLBACK
+2021-12-22 23:27:37,377 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-22 23:27:38,649 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-22 23:27:38,650 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-22 23:27:39,397 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.747 seconds.
+2021-12-22 23:27:39,397 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-22 23:27:45,225 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-22 23:27:45,225 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:27:45,233 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-22 23:27:45,233 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00039s] {}
+2021-12-22 23:27:45,245 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-22 23:27:45,245 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:27:45,261 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-22 23:27:45,261 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT applicant FROM hb_patent
+2021-12-22 23:27:45,262 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00038s] {}
+2021-12-22 23:27:49,048 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-22 23:28:17,607 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-22 23:28:24,360 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-22 23:28:24,361 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-22 23:28:25,136 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.776 seconds.
+2021-12-22 23:28:25,137 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-22 23:28:41,707 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-22 23:28:48,434 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-22 23:28:48,435 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-22 23:28:49,193 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.758 seconds.
+2021-12-22 23:28:49,194 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-22 23:29:28,417 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-22 23:29:28,418 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:29:28,428 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-22 23:29:28,428 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00092s] {}
+2021-12-22 23:29:28,444 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-22 23:29:28,445 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:29:28,462 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-22 23:29:28,464 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT applicant FROM hb_patent
+2021-12-22 23:29:28,464 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00094s] {}
+2021-12-22 23:29:32,261 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-22 23:31:48,784 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-22 23:31:50,030 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-22 23:31:50,031 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-22 23:31:50,791 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.761 seconds.
+2021-12-22 23:31:50,792 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-22 23:31:56,609 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-22 23:31:56,609 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:31:56,616 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-22 23:31:56,616 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00041s] {}
+2021-12-22 23:31:56,627 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-22 23:31:56,628 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:31:56,642 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-22 23:31:56,643 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT applicant FROM hb_patent
+2021-12-22 23:31:56,643 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00040s] {}
+2021-12-22 23:32:00,414 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-22 23:33:52,634 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-22 23:33:53,898 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-22 23:33:53,899 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-22 23:33:54,644 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.746 seconds.
+2021-12-22 23:33:54,645 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-22 23:34:00,480 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-22 23:34:00,480 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:34:00,488 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-22 23:34:00,488 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00043s] {}
+2021-12-22 23:34:00,502 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-22 23:34:00,502 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:34:00,520 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-22 23:34:00,520 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT applicant FROM hb_patent
+2021-12-22 23:34:00,520 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00043s] {}
+2021-12-22 23:34:04,278 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-22 23:46:51,549 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-22 23:46:52,808 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-22 23:46:52,808 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-22 23:46:53,542 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.734 seconds.
+2021-12-22 23:46:53,542 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-22 23:46:59,398 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-22 23:46:59,399 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:46:59,406 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-22 23:46:59,407 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00044s] {}
+2021-12-22 23:46:59,419 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-22 23:46:59,420 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:46:59,436 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-22 23:46:59,437 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT applicant FROM hb_patent
+2021-12-22 23:46:59,437 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00044s] {}
+2021-12-22 23:47:03,054 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-22 23:47:27,787 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-22 23:47:29,029 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-22 23:47:29,030 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-22 23:47:29,773 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.743 seconds.
+2021-12-22 23:47:29,773 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-22 23:47:35,537 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-22 23:47:35,537 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:47:35,546 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-22 23:47:35,546 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00039s] {}
+2021-12-22 23:47:35,559 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-22 23:47:35,560 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:47:35,577 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-22 23:47:35,578 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT applicant FROM hb_patent
+2021-12-22 23:47:35,578 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00038s] {}
+2021-12-22 23:47:39,490 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-22 23:51:03,631 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-22 23:51:04,873 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-22 23:51:04,873 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-22 23:51:05,597 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.724 seconds.
+2021-12-22 23:51:05,597 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-22 23:51:11,382 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-22 23:51:11,382 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:51:11,389 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-22 23:51:11,389 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00040s] {}
+2021-12-22 23:51:11,400 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-22 23:51:11,400 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:51:11,415 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-22 23:51:11,416 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT applicant FROM hb_patent
+2021-12-22 23:51:11,416 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00039s] {}
+2021-12-22 23:51:15,883 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-22 23:51:51,920 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-22 23:51:53,179 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-22 23:51:53,179 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-22 23:51:53,916 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.737 seconds.
+2021-12-22 23:51:53,916 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-22 23:51:59,719 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-22 23:51:59,720 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:51:59,727 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-22 23:51:59,728 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00039s] {}
+2021-12-22 23:51:59,740 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-22 23:51:59,741 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:51:59,757 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-22 23:51:59,758 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT applicant FROM hb_patent
+2021-12-22 23:51:59,758 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00038s] {}
+2021-12-22 23:52:03,614 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
+2021-12-22 23:52:20,383 - /home/BH/sy1906413/project/tpidentify/config/config.py[func:create_app line:20] - INFO: Your config mode is dev
+2021-12-22 23:52:21,700 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2021-12-22 23:52:21,701 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:133] - DEBUG: Loading model from cache /tmp/jieba.cache
+2021-12-22 23:52:22,439 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:165] - DEBUG: Loading model cost 0.738 seconds.
+2021-12-22 23:52:22,439 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/jieba/__init__.py[func:initialize line:166] - DEBUG: Prefix dict has been built successfully.
+2021-12-22 23:52:28,285 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'sql_mode'
+2021-12-22 23:52:28,285 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:52:28,293 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SHOW VARIABLES LIKE 'lower_case_table_names'
+2021-12-22 23:52:28,293 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00039s] {}
+2021-12-22 23:52:28,305 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT DATABASE()
+2021-12-22 23:52:28,305 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [raw sql] {}
+2021-12-22 23:52:28,321 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: BEGIN (implicit)
+2021-12-22 23:52:28,322 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: SELECT applicant FROM hb_patent
+2021-12-22 23:52:28,322 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: [generated in 0.00040s] {}
+2021-12-22 23:52:32,081 - /home/BH/sy1906413/.local/lib/python3.6/site-packages/sqlalchemy/log.py[func:info line:117] - INFO: COMMIT
